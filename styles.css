@@ -1,0 +1,14 @@
+article {
+    margin: auto auto auto auto;
+    padding: 25px 50px 75px 100px;
+    align-self: center;
+}
+.copyright {
+    text-align: right;
+}
+header {
+    text-align: center;
+}
+turtle {
+    text-align: center;
+}
